@@ -1,2 +1,2 @@
 # Variable_JTextFields
-Nick's Variable JTextField Example
+Nick's Variable JTextField Example. This first creates a GUI to select the number of JTextFields a user wants, then initializes another GUI with the desired number of JTextFields. JTextFields are assigned to their respective array (Nouns, Adjectives, Adverbs, Verbs, and Names) for easy access for later program usage. For example, the first noun text field will be nounsField[0], followed by nounsField[1].
